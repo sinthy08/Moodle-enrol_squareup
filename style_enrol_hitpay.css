@@ -1,0 +1,9 @@
+.paynowbutton {
+    border-radius: 10px;
+    padding: 5px 15%;
+    color: white;
+    background-color: darkblue;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    border: darkblue;
+}
